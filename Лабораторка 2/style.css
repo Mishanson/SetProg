@@ -1,0 +1,50 @@
+body {
+	background: #7EA863;
+}
+ul li a {
+	font-size: 22px;
+	color: black;
+	background: #ACE086;
+	font-style: italic;
+}
+.navigator {
+	list-style-type: none;
+}
+h1 {
+	background: #94BF74;
+}
+h4 {
+	font-size: 18px;
+	color: black;
+	font-weight: 400;
+	background: #94BF74;
+}
+.pos { 
+	font-size: 16px;
+	color: #484343;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: left;
+	background: #A8D884;
+}
+.stats {
+	list-style-image: url(Gears.png);
+	font-size: 18px;
+	font-style: italic;
+}
+form input {
+	width:350px;
+	height:20px;
+}
+form textarea{
+	width:352px;
+	height:100px;
+}
+input[type="text"], textarea {
+	font-size:16px;
+}
+.bigpic {
+	border-color: #94BF74;
+	border-style: solid;
+	border-width: 7px;
+}
