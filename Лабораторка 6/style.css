@@ -1,0 +1,102 @@
+body {
+	background: #7EA863;
+}
+.mlink {
+	font-size: 22px;
+	color: black;
+	background: #ACE086;
+	font-style: italic;
+}
+.mlink:hover{
+	font-size: 22px;
+	color: black;
+	Background: #97E256;
+	font-style: italic;
+}
+.header {
+	list-style-type: none;
+	background: #94BF74;
+}
+.navbar-light {
+    background-color: #94BF74;
+	font-size: 26px;
+}.dropdown-menu {
+	background-color: #94BF74;
+}
+.nav-item {
+	margin-top: 20px;
+}
+.dropdown-item:hover {
+	background-color: #ACE086;
+}
+.dropdown-item {
+	background-color: #94BF74;
+}
+h1 {
+	background: #94BF74;
+}
+h4 {
+	font-size: 18px;
+	color: black;
+	font-weight: 400;
+	background: #94BF74;
+}
+.pos { 
+	font-size: 16px;
+	color: #484343;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: left;
+	background: #A8D884;
+}
+.pos:first-letter {
+	font-family: "Times New Roman";
+	font-size: 18px;
+}
+.stats, .statss, .ws, .wss {
+	list-style-image: url(Gears.png);
+	font-size: 18px;
+	font-style: italic;
+	border-color: #94BF74;
+	border-style: solid;
+	border-width: 2px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+.statss, .wss{
+	text-align: center;
+}
+thead{
+	height: 35px;
+}
+form input {
+	width:350px;
+	height:20px;
+	text-transform: capitalize;
+	
+}
+form textarea{
+	width:352px;
+	height:100px;
+	text-transform: capitalize;
+}
+input[type="text"], textarea {
+	font-size:16px;
+}
+.bigpic {
+	border-color: #94BF74;
+	border-style: solid;
+	border-width: 7px;
+	margin-left: 60px;
+}
+.bigpic:hover {
+	border-width: 0px;
+	padding: 7px;
+}
+.carousel-control-prev {
+	margin-left: -10px;
+}
+
+#carouselExampleControls {
+	width: 430px;
+}
